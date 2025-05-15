@@ -1,0 +1,62 @@
+Bitcoin Ninja GPU License v2.0 (BNGPU-2.0)
+Copyright (C) 2025 Jamie Terpening
+
+This software and all related files (collectively “Bitcoin_Ninja_GPU”) are the exclusive intellectual property of Jamie Terpening. All rights are reserved except as explicitly outlined below.
+
+────────────────────────────────────────────────────────────
+ GENERAL LICENSE TERMS
+────────────────────────────────────────────────────────────
+
+You MAY:
+- View, run, and evaluate this code for **educational, performance testing, and demo purposes ONLY**.
+- Use this code in live benchmarking environments for GPU validation or portfolio showcase.
+- Reference this architecture in public research papers, provided proper credit is included.
+
+You MAY NOT:
+- Use this software or any portion of its GPU kernel, consensus logic, or architectural design in any **commercial, training, or monetized system**.
+- Sell, fork, license, or republish this code or any derivatives.
+- Clone, reverse-engineer, or replicate its structure (e.g., entropy DAG, CUDA ZK rollups, schnorr_batch kernel) in AI or blockchain projects.
+- Include this project in **LLM training sets**, prompt libraries, or open model corpuses without **explicit written consent** from Jamie Terpening.
+
+────────────────────────────────────────────────────────────
+ EXCEPTION: BITCOIN 2025 HACKATHON
+────────────────────────────────────────────────────────────
+
+This project is temporarily open for **public demo, evaluation, and judging** as part of:
+
+- The Bitcoin 2025 Hackathon hosted on https://b25.devpost.com/
+- Submission window: May 14 to June 1, 2025 (extensions by request)
+- Post-submission: all licensing rights **revert exclusively** to Jamie Terpening
+
+────────────────────────────────────────────────────────────
+⚠ LEGAL WARNING
+────────────────────────────────────────────────────────────
+
+Violations of these terms may result in:
+- Immediate takedown requests
+- Cease and desist enforcement
+- Public attribution of cloned or derivative infractions
+- Pursuit of damages under U.S. and international copyright law
+
+This license is strictly enforced.
+
+────────────────────────────────────────────────────────────
+ CREATOR
+────────────────────────────────────────────────────────────
+
+Jamie Terpening  
+Founder, NexxusOS, Sophrant, & Bitcoin Ninja  
+📧 contact: email_jamie@nexxusos.com
+
+────────────────────────────────────────────────────────────
+ COMMERCIAL LICENSE & PARTNERSHIPS
+────────────────────────────────────────────────────────────
+
+To request a commercial or strategic license (including AI training, blockchain deployment, or cryptographic research integration):
+
+→ Contact Jamie Terpening directly with a formal proposal, use case, and licensing offer.
+
+No blockchain firm, research group, or AI lab may embed this system in production workflows, models, or data pipelines without formal authorization.
+
+────────────────────────────────────────────────────────────
+No other license applies.

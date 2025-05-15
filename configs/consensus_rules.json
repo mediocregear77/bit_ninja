@@ -1,0 +1,24 @@
+{
+  "dag": {
+    "max_depth": 128,
+    "min_parents": 1,
+    "max_parents": 3,
+    "fork_tolerance": 0.1
+  },
+  "entropy": {
+    "min_entropy_score": 0.8,
+    "max_entropy_score": 2.5,
+    "required_average": 1.2,
+    "link_weight_threshold": 0.25
+  },
+  "block": {
+    "tx_batch_size": 128,
+    "max_block_latency_sec": 2,
+    "enable_entropy_validation": true
+  },
+  "validation": {
+    "enable_signature_checks": true,
+    "allow_empty_blocks": false,
+    "require_parent_validity": true
+  }
+}

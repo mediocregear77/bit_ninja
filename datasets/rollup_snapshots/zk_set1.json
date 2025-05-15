@@ -1,0 +1,18 @@
+{
+  "rollup_id": "zk_set1",
+  "tx_batch": [
+    "7c32fdcba0e26389f0187486b12b7c7e1a9cfedfbd3a3bb56888d3d6f934c1b7",
+    "0f63b57e87d410b68a93bb678c50d8429be29e6eb8e893159eeab4df1d8c0f41",
+    "8215ad7a4d2e4c72f11129c18c6ecbd1d84c8bcb860e53d6481ad54bdf91a1d6",
+    "e09c5a92d679187e872b982d45edc9f6312b460bdebd3a7a210c91cf8eb4d212",
+    "0e8e2e5117e7c8583c6a7932e4ad5dbb60bd9ed59f3c2e9c5e47286755b82ee1",
+    "9fae3ac7bff90bb87e2341efb27540ef20de7d236a9138cbe71d92bb1a487f54",
+    "5d370d97cd2ec5b9fbdc4e18e3b147cb7bda9a3ef2e05a840e1422b8c401d792",
+    "6c932bc06dc3a9e781132fcff9fc58d2e4a9574dd7e4f9e1eae1ec1e50758be4",
+    "e6a4d3272e95dd947f2f7091be87cd137fcfb712df67bdf5d84a8991730f4e52",
+    "27b6dc729e321b71bc2f19bb30df56ea54f01a568f7ab6a4b7e785dfd3a4dfc1"
+  ],
+  "simulated_proof_root": "d60c58b2708e6493ad3d5b0c6b68de5b4f6a8ac6f8b9df21e9168f3dc4aeb1df",
+  "timestamp": 1715783657,
+  "note": "Simulated rollup from synthetic tx set using SHA256"
+}

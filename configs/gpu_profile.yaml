@@ -1,0 +1,27 @@
+# configs/gpu_profile.yaml
+# CUDA tuning and runtime behavior for Bitcoin_Ninja_GPU
+
+gpu:
+  name: "default"
+  device_id: 0
+  cuda_version: "12.2"
+  kernel_block_size: 256
+  kernel_grid_multiplier: 4
+
+performance:
+  batch_size_default: 1024
+  entropy_sample_count: 512
+  max_benchmark_batch: 4096
+
+thermal_limits:
+  max_temp_celsius: 85
+  throttle_temp_celsius: 78
+  warning_temp_celsius: 70
+
+power_limits:
+  max_watts: 320
+  warning_watts: 250
+
+monitoring:
+  enable_gpu_monitor: true
+  monitor_interval_sec: 10

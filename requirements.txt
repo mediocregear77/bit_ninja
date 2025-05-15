@@ -1,0 +1,7 @@
+# Bitcoin_Ninja_GPU Requirements
+
+flask==2.3.3
+pycuda==2022.2.2
+numpy==1.26.4
+psutil==5.9.8
+PyYAML==6.0.1

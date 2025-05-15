@@ -1,0 +1,37 @@
+<!-- frontend/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bitcoin Ninja GPU Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>⚡ Bitcoin Ninja GPU Dashboard</h1>
+
+    <div class="section">
+      <button onclick="fetchEntropy()">Check Entropy</button>
+      <p id="entropy">Entropy Score: --</p>
+    </div>
+
+    <div class="section">
+      <button onclick="runBenchmark()">Run TPS Benchmark</button>
+      <p id="tps">TPS: --</p>
+    </div>
+
+    <div class="section">
+      <button onclick="mineBlock()">Mine New DAG Block</button>
+      <p id="block">Block ID: --</p>
+    </div>
+
+    <div class="section">
+      <button onclick="rollup()">Run ZK Rollup</button>
+      <p id="rollup">ZK Proof Root: --</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
